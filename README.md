@@ -1,2 +1,2 @@
-# red-and-blue
-Highschool website project
+# red-dragon-and-panthera-website
+website made in highschool
